@@ -1,0 +1,5 @@
+rootProject.name = 'grpc-book-author-demo'
+include 'proto'
+include 'grpc-service'
+include 'client-service'
+
